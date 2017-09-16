@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="quantity">Quantity</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="nameE">Name</string>
+    <string name="order">Order</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="defQuantity">2</string>
+    <string name="sumName">Name: <xliff:g>%s</xliff:g></string>
+    <string name="sumWhippedCream">Add whipped cream? <xliff:g>%b</xliff:g></string>
+    <string name="sumChocolate">Add chocolate? <xliff:g>%b</xliff:g></string>
+    <string name="sumQuantity">Quantity: <xliff:g>%d</xliff:g></string>
+    <string name="sumTotal">Total: <xliff:g>%d</xliff:g></string>
+    <string name="sumThankYou">Thank You!</string>
+</resources>
